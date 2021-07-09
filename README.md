@@ -1,6 +1,6 @@
 # Task-6-Testing
 
-####The SparksFoundation Graduation Rotation Internship<br>
+#### The SparksFoundation Graduation Rotation Internship<br>
 1. Read up about Testing.<br> 
 2. Learn selenium and basic selenium automation scripting.<br> ◇ 
 3. Start with Google Search and read tutorials. Watch videos to learn about various aspects of testing using selenium.<br> 
